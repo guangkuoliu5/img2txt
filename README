@@ -1,0 +1,11 @@
+changefont and resize might only work on xfcce4. 
+Therefore if not on xfce4 should use playMovie.sh, otherwise playMovie0.sh and should setup output0/ with the resolution specified
+generally, 
+1. put image into data/ , and run . makeMovie.sh 60 15
+2. add . $root/playmovie.sh in ~/.bashrc
+
+for hgih resolution
+1. make sure changefont and resize work
+2. find appropriate resolution with testsize.sh
+3. run makeMovie.sh with proper arguments
+4. add . $root/playmovie0.sh in ~/.bashrc
