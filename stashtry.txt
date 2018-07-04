@@ -1,9 +1,0 @@
-hello
-fuck you
-
-<<<<<<< Updated upstream
-ohihihihi
-ahohohoho
-=======
-ohehehehhe
->>>>>>> Stashed changes
